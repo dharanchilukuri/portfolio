@@ -168,10 +168,7 @@
   } 
 
 @media screen and (max-width:75em)
-  {
-    .skills-layout{
-      display:grid;
-}
+ {
     dfn{
       background-color:var(--main-gray);
 }
