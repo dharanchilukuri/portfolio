@@ -168,7 +168,6 @@
  {
    .skills-section{
     height:100vh;
-     background-color:red;
   }
 }
 
@@ -221,12 +220,11 @@
   color:var(--main-white);
 }
 
-@media screen and (max-width: 62.5em)
+@media screen and (max-width: 75em)
  {
-   .skills-section{
+   .projects-section{
     height:100vh;
-     background-color:red;
-  }
+   }
 }
 
 
