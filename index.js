@@ -6,6 +6,8 @@ function handleNavLinkClick(event){
   // myElement.style.flexWrap='wrap';
   myElement.style.justifyContent='center';
   myElement.style.alignContent='first baseline';
+    flex-grow:0;
+    flex-shrink:0;
   // myElement.style.margin='0 auto';
 
     if(k>0)
