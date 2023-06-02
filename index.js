@@ -1,11 +1,7 @@
 let k=1;
 
 function handleNavLinkClick(event){
-    const myElement=document.getElementsByClassName('skills-layout')[0];
-     myElement.style.display = 'flex';
-  myElement.style.flexWrap='wrap';
-  myElement.style.justifyContent='center';
-  myElement.style.alignContent='first baseline';        
+    const myElement=document.getElementsByClassName('skills-layout')[0].style.display='flex';    
 
     if(k>0)
     {
