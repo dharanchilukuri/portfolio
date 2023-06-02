@@ -8,7 +8,6 @@ function handleNavLinkClick(event){
   myElement.style.alignContent='first baseline';
     flex-grow:0;
     flex-shrink:0;
-    flex-basis:0;
   myElement.style.margin='0 auto';
 
     if(k>0)
