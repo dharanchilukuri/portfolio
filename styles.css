@@ -167,11 +167,9 @@
     border-width: 1rem;
   } 
 
-@media screen and (max-width:75em)
+@media screen and (max-width:62.5em)
  {
     dfn{
-      font-size:6rem;
-      background-color:var(--main-gray);
       border-style:none;
       border-width:0;
    }
