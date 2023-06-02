@@ -170,9 +170,11 @@
 @media screen and (max-width:75em)
   {
     .skills-layout{
-    flex-direction:flex-start;
     background-color:red;
       align-content:center;
+      flex-grow:0;
+      flex-shrink:0;
+      flex-basis:0;
 }
 }
 
