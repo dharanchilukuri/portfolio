@@ -170,6 +170,7 @@
 @media screen and (max-width:75em)
  {
     dfn{
+      font-size:6rem;
       background-color:var(--main-gray);
       border-style:none;
       border-width:0;
