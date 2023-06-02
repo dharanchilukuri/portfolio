@@ -71,7 +71,6 @@
    @media (max-width: 38.75em) {
     #navbar {
       justify-content: center;
-      background-color: blue;
     }
   
   }
@@ -167,12 +166,11 @@
     border-width: 1rem;
   } 
 
-@media screen and (max-width:62.5em)
- {
-    dfn{
-      border-style:none;
-      border-width:0;
-   }
+@media screen and (max-height: 28.75em)
+  {
+    .skills-layout{
+    height:fit-content;
+    }
 }
 
 .projects-section {
