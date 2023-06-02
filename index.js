@@ -6,9 +6,11 @@ function handleNavLinkClick(event){
   myElement.style.flexWrap='wrap';
   myElement.style.justifyContent='center';
   myElement.style.alignContent='first baseline';
-    flex-grow:0;
-    flex-shrink:0;
-  myElement.style.margin='0 auto';
+    myElement.style.flexGrow='0';
+    myElement.style.flexShrink='0';
+    myElement.style.flexBasis='0';
+//   myElement.style.margin='0 auto';
+        
 
     if(k>0)
     {
