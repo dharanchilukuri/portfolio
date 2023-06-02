@@ -175,6 +175,10 @@
     #skills-section{
       padding: 30rem 4rem;
     }
+    .skills-layout{
+      width:100%;
+      flex-direction: row;
+    }
 }
 
 .projects-section {
