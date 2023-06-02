@@ -172,10 +172,11 @@
     .skills-layout{
     background-color:red;
       align-content:center;
-      flex-grow:0;
-      flex-shrink:0;
-      flex-basis:0;
 }
+    dfn{
+      padding-bottom:4rem;
+      margin-bottom:0;
+    }
 }
 
 .projects-section {
