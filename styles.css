@@ -173,11 +173,7 @@
       font-size: 6rem;
     }
     #skills-section{
-      padding: 30rem 4rem;
-    }
-    .skills-layout{
-      width:100%;
-      flex-direction: row;
+      padding: 20rem 4rem;
     }
 }
 
