@@ -167,7 +167,7 @@
     border-width: 1rem;
   } 
 
-@media screen and (max-width:48.75em)
+@media screen and (max-width:61.25em)
   {
     .skills-layout{
     flex-direction:flex-start;
