@@ -148,7 +148,7 @@
      display:flex;
      flex-wrap:wrap;
      justify-content:center;
-     align-content:center;
+     align-content:first baseline;
      margin:0 auto;
      max-width:50%;
      height:100vh;
