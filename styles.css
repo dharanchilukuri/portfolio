@@ -166,7 +166,7 @@
 
 @media screen and (max-width: 75em)
  {
-   .skills-section{
+   #skills-section{
     height:100vh;
   }
 }
