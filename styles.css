@@ -145,7 +145,6 @@
   
  
    .skills-layout{
-     display:flex;
      flex-wrap:wrap;
      justify-content:center;
      align-content:baseline;
@@ -166,6 +165,14 @@
     border-style:solid;
     border-width: 1rem;
   } 
+
+@media screen and (max-width:28.75em)
+  {
+    .skills.layout{
+    flex-direction:flex-start;
+    background-color:red;
+}
+}
 
 .projects-section {
   text-align: center;
