@@ -171,6 +171,8 @@
  {
     dfn{
       background-color:var(--main-gray);
+      border-style:none;
+      border-width:0;
 }
 }
 
