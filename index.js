@@ -5,12 +5,7 @@ function handleNavLinkClick(event){
      myElement.style.display = 'flex';
   myElement.style.flexWrap='wrap';
   myElement.style.justifyContent='center';
-  myElement.style.alignContent='first baseline';
-    myElement.style.flexGrow='0';
-    myElement.style.flexShrink='0';
-    myElement.style.flexBasis='0';
-//   myElement.style.margin='0 auto';
-        
+  myElement.style.alignContent='first baseline';        
 
     if(k>0)
     {
