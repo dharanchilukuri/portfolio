@@ -3,12 +3,13 @@ let k=1;
 function handleNavLinkClick(event){
     const myElement=document.getElementsByClassName('skills-layout')[0];
      myElement.style.display = 'flex';
-  // myElement.style.flexWrap='wrap';
+  myElement.style.flexWrap='wrap';
   myElement.style.justifyContent='center';
   myElement.style.alignContent='first baseline';
     flex-grow:0;
     flex-shrink:0;
-  // myElement.style.margin='0 auto';
+    flex-basis:0;
+  myElement.style.margin='0 auto';
 
     if(k>0)
     {
