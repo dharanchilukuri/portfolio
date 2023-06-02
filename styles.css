@@ -164,7 +164,7 @@
     border-width: 1rem;
   } 
 
-@media screen and (max-width: 28.75em)
+@media screen and (max-width: 62.5em)
  {
    .skills-section{
     height:100vh;
@@ -221,6 +221,13 @@
   color:var(--main-white);
 }
 
+@media screen and (max-width: 62.5em)
+ {
+   .skills-section{
+    height:100vh;
+     background-color:red;
+  }
+}
 
 
 .contact-section {
