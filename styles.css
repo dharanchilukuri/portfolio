@@ -168,7 +168,7 @@
 
 @media screen and (max-width:28.75em)
   {
-    .skills.layout{
+    .skills-layout{
     flex-direction:flex-start;
     background-color:red;
 }
